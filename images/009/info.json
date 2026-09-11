@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 45,
+    "height" : 32
+  }, {
+    "width" : 89,
+    "height" : 64
+  }, {
+    "width" : 177,
+    "height" : 127
+  }, {
+    "width" : 354,
+    "height" : 253
+  }, {
+    "width" : 708,
+    "height" : 505
+  }, {
+    "width" : 1415,
+    "height" : 1010
+  } ],
+  "profile" : "level0",
+  "width" : 1415,
+  "id" : "https://irisbox.github.io/HybridHorizonCorpus/images/009",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1010
+}

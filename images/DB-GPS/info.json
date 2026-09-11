@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 69,
+    "height" : 57
+  }, {
+    "width" : 137,
+    "height" : 113
+  }, {
+    "width" : 273,
+    "height" : 225
+  }, {
+    "width" : 545,
+    "height" : 450
+  }, {
+    "width" : 1089,
+    "height" : 900
+  }, {
+    "width" : 2178,
+    "height" : 1800
+  } ],
+  "profile" : "level0",
+  "width" : 2178,
+  "id" : "https://irisbox.github.io/HybridHorizonCorpus/images/DB-GPS",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1800
+}

@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 68,
+    "height" : 57
+  }, {
+    "width" : 136,
+    "height" : 113
+  }, {
+    "width" : 271,
+    "height" : 225
+  }, {
+    "width" : 542,
+    "height" : 450
+  }, {
+    "width" : 1084,
+    "height" : 900
+  }, {
+    "width" : 2168,
+    "height" : 1800
+  } ],
+  "profile" : "level0",
+  "width" : 2168,
+  "id" : "https://irisbox.github.io/HybridHorizonCorpus/images/LB-GPS",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1800
+}
